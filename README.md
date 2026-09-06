@@ -17,7 +17,7 @@ Remote help is available worldwide where appropriate, and small jobs are welcome
 
 ## Contact
 
+- Request a quick check: [linuxstewards.com/contact](https://www.linuxstewards.com/contact)
 - Website: [linuxstewards.com](https://www.linuxstewards.com/)
 - Services: [linuxstewards.com/services](https://www.linuxstewards.com/services)
-- Email: [info@linuxstewards.com](mailto:info@linuxstewards.com)
-
+- Email: [linuxsteward@gmail.com](mailto:linuxsteward@gmail.com)
