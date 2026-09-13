@@ -26,4 +26,4 @@ Remote help is available worldwide where appropriate, and small jobs are welcome
 
 VOY-OS is our agent-assisted Linux project, with people in control. It is in development; there is no public OS download yet.
 
-[Join the VOY-OS waiting list](https://voyos-mu.vercel.app/?utm_source=github&utm_medium=organic_social&utm_campaign=voyos_waitlist_202609&utm_content=profile_readme#join) for development updates and possible early-access invitations.
+[Join the VOY-OS waiting list](https://voyos.org/?utm_source=github&utm_medium=organic_social&utm_campaign=voyos_waitlist_202609&utm_content=profile_readme#join) for development updates and possible early-access invitations.
