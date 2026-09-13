@@ -9,7 +9,7 @@ Remote help is available worldwide where appropriate, and small jobs are welcome
 - Website development, repairs and changes
 - WordPress, Next.js and React
 - Software development and Python
-- Linux, Windows and macOS support
+- Windows, Mac and Linux support
 - Server, network, DNS, domain and email administration
 - Office automation, spreadsheets, data, PDFs and document work
 - AI integration, business automation and mobile applications
@@ -21,3 +21,9 @@ Remote help is available worldwide where appropriate, and small jobs are welcome
 - Website: [linuxstewards.com](https://www.linuxstewards.com/)
 - Services: [linuxstewards.com/services](https://www.linuxstewards.com/services)
 - Email: [linuxsteward@gmail.com](mailto:linuxsteward@gmail.com)
+
+## VOY-OS waiting list
+
+VOY-OS is our agent-assisted Linux project, with people in control. It is in development; there is no public OS download yet.
+
+[Join the VOY-OS waiting list](https://voyos-mu.vercel.app/?utm_source=github&utm_medium=organic_social&utm_campaign=voyos_waitlist_202609&utm_content=profile_readme#join) for development updates and possible early-access invitations.
