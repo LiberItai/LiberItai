@@ -20,7 +20,7 @@ Remote help is available worldwide where appropriate, and small jobs are welcome
 - Request a quick check: [linuxstewards.com/contact](https://www.linuxstewards.com/contact)
 - Website: [linuxstewards.com](https://www.linuxstewards.com/)
 - Services: [linuxstewards.com/services](https://www.linuxstewards.com/services)
-- Email: [linuxsteward@gmail.com](mailto:linuxsteward@gmail.com)
+- Email: [info@linuxstewards.com](mailto:info@linuxstewards.com)
 
 ## VOY-OS waiting list
 
